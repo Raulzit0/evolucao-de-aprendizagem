@@ -1,6 +1,7 @@
 ![](https://prnt.sc/XnoMkPgE3Wif)
+
 ![]([Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
-Repositorio referente ao desafio modululo 02
+
 ![](https://i.imgur.com/xG74tOh.png)
 
 # EXEMPLO - Conteúdo modelo no GitHub
