@@ -1,6 +1,6 @@
 ![](https://prnt.sc/XnoMkPgE3Wif)
 
-![]([Snake animation](https://github.com//Raulzit0/blob/output/github-contribution-grid-snake.svg)
+![]([Snake animation](https://github.com//Raulzit0//Raulzit0/blob/output/github-contribution-grid-snake.svg)
 
 ![](https://i.imgur.com/xG74tOh.png)
 
