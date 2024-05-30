@@ -1,4 +1,4 @@
-![](https://prnt.sc/XnoMkPgE3Wif)
+![A](https://prnt.sc/XnoMkPgE3Wif)
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
