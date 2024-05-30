@@ -1,5 +1,17 @@
 ![](https://prnt.sc/XnoMkPgE3Wif)
-
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Raulzit0/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Raulzit0/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/Raulzit0/snk/output/github-contribution-grid-snake.svg"
+  />
 ![]([Snake animation](https://github.com//Raulzit0//Raulzit0/blob/output/github-contribution-grid-snake.svg)
 
 ![](https://i.imgur.com/xG74tOh.png)
