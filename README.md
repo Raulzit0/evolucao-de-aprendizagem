@@ -1,4 +1,4 @@
-![]([https://imgur.com/a/XNTUMeE](https://i.imgur.com/ghy7RF6.png))
+![](https://i.imgur.com/ghy7RF6.png)
 <img src=(https://i.imgur.com/ghy7RF6.png)>
 <picture>
   <source
