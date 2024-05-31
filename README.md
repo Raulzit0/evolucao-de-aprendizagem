@@ -1,5 +1,5 @@
 ![](https://prnt.sc/XnoMkPgE3Wif)
-img src="[URL_da_Imagem](https://prnt.sc/XnoMkPgE3Wif)">
+img src=https://prnt.sc/XnoMkPgE3Wif>
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
