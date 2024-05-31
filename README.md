@@ -13,9 +13,6 @@
     alt="github contribution grid snake animation"
     src="https://raw.githubusercontent.com/Raulzit0/snk/output/github-contribution-grid-snake.svg"
   />
-![]([Snake animation](https://github.com//Raulzit0//Raulzit0/snk/output/github-contribution-grid-snake.svg)
-
-![](https://i.imgur.com/xG74tOh.png)
 
 # EXEMPLO - Conteúdo modelo no GitHub
 
