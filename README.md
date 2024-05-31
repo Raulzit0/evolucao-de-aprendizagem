@@ -1,5 +1,5 @@
 ![]((https://imgur.com/a/XNTUMeE))
-<img src="https://prnt.sc/XnoMkPgE3Wif">
+<img src="https://imgur.com/a/XNTUMeE">
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
