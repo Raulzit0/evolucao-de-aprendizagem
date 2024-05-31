@@ -1,5 +1,5 @@
-![]((https://imgur.com/a/XNTUMeE))
-<img src=https://imgur.com/a/XNTUMeE>
+![]([https://imgur.com/a/XNTUMeE](https://i.imgur.com/ghy7RF6.png))
+<img src=(https://i.imgur.com/ghy7RF6.png)>
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
