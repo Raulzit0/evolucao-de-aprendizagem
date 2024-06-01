@@ -13,7 +13,8 @@
     alt="github contribution grid snake animation"
     src="https://raw.githubusercontent.com/Raulzit0/snk/output/github-contribution-grid-snake.svg"
   />
-### Modulo 2 
+  
+## Modulo 2
 
 ## Conteúdos Tecnico :
 
