@@ -13,7 +13,7 @@
     alt="github contribution grid snake animation"
     src="https://raw.githubusercontent.com/Raulzit0/snk/output/github-contribution-grid-snake.svg"
   />
-  <div style=" float: right; padding: 20px 0 20px 35px; font-family:Verdana, Geneva, sans-serif; font-size:12px;">
+  <div style=" float: right; padding: 50px 0 50px 50px; font-family:Verdana, Geneva, sans-serif; font-size:12px;">
     <div class="Upload">oi</div>
 </div>
 ## Modulo 2
