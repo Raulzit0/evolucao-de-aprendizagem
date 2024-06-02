@@ -27,13 +27,22 @@
 ## Conteúdos de Carreira :
 
 - Gestao de Tempo
-- Curriculo e Carta de Apresentacao
+- Curriculo e Carta de Apresentação
 - Linkedin : Primeiros passos
 
 ## O que eu já sei sobre os assuntos que serão abordados nesse módulo?
 
+- Funções : é um subprograma onde você pode executar uma tarefa ou reutilizá-las.
+- Tipos de Dados : reforço e aprofundamento em conhecimento sobre tipagens no TypeSCript.
+- Tipos Utilitarios : é uma biblioteca disponibinizada pelo TypeScript para poder utilizar nos projetos ,
+- Métodos de strings : são maneiras de manipular texto em programação.
+- Metodos de Arrays : São maneiras de manipular dentro de uma lista.
+- 
+- Gestao de Tempo : Como ja dito no titulo, Gerir melhor nosso tempo para tudo e se auto conhenher . Disciplina , Autorregulção e Procrastinação.
+- Curriculo e Carta de apresentação : Como montar e organizar meu curriculum , onde focar para chamar atenção das empresas e o que conhecer delas , com a carta de apresentação destacar minhas qualificações para chamar a atenção do recrutador.
 - LinkedIn é uma plataforma onde as pessoas podem criar perfis profissionais e se conectar com outras na área.
-- Métodos de strings são maneiras de manipular texto em programação.
+
+  
 
 ## O que quero aprender sobre os assuntos que serão abordados nesse módulo?
 
